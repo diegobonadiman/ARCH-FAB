@@ -1,2 +1,2 @@
-# ARCH-FAB
-Digital fabrication research
+# ARCH-FAB 
+Digital fabrication research blog
